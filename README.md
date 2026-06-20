@@ -164,6 +164,12 @@ This project is for educational/research purposes. The competition data is subje
 
 ---
 
+## Notebook
+
+- https://www.kaggle.com/code/samyakrajbayar/notebook327f856289
+
+---
+
 ## Contact
 
 For questions or suggestions, please open an issue or reach out via the Kaggle competition discussion board.
